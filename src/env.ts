@@ -1,2 +1,2 @@
-export const APP_ID = "2D7B4CDB-932F-4082-9B09-A1153792DC8D";
+export const APP_ID = "E7557814-56DB-48A9-8DDF-9D5F95057782";
 export const API_TOKEN = "";
